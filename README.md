@@ -5,4 +5,5 @@ The program needs two files: Main -> MC-UP-2.py where you can edit some particle
 
 If you double click the displayed figure then the animation is stopped.
 
-![An example:](https://github.com/M1RA1/Random-particles/blob/master/Figure_1.png?raw=true)
+An example: 
+![BOX](https://github.com/M1RA1/Random-particles/blob/master/Figure_1.png?raw=true)
